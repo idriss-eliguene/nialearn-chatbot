@@ -1,6 +1,4 @@
-# NiaLearn
 
-NiaLearn est un assistant IA éducatif conçu pour guider les jeunes africains vers les métiers du numérique.
 # NiaLearn
 
 **NiaLearn** est un assistant IA éducatif open source conçu pour guider la jeunesse africaine vers les métiers du numérique.
