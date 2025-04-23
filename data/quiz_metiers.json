@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Tu préfères quoi ?",
+    "options": ["Créer des applis", "Protéger les systèmes", "Analyser des données"]
+  },
+  {
+    "question": "Tu es plutôt à l’aise avec…",
+    "options": ["Les chiffres", "La logique", "La communication"]
+  }
+]
